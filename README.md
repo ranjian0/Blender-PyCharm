@@ -42,7 +42,7 @@ this folder
 ![Alt text](/res/user-prefs.png?raw=true "User Preferences")  
 
 
-5. Now we are going to setup PyCharm. Hold to to your socks
+5. Now we are going to setup PyCharm. Hold on to your socks
 
 6. First of we want to create some pre-definitions for pycharm , so that it won't
 bother us with loads of errors when developing addons for blender
@@ -144,7 +144,7 @@ NOTE: You will have to do this for all your blender-addon projects
 16. Finally make your cool addon.
 
     - Here's a sample
-![Alt text](/res/blender-pycharm.git?raw=true "Sample Workflow")    
+![Alt text](/res/blender-pycharm.gif?raw=true "Sample Workflow")    
     
 
 # CONCLUSION 
