@@ -150,11 +150,12 @@ NOTE: You will have to do this for all your blender-addon projects
 # CONCLUSION 
 
 This is certainly alot of work to do,  which is why its not for everyone. 
+
 If you are working with a huge multiple file/ multiple package addon, you should be able
 to appreciate the value of this workflow like I have.
 
-Some Caveats:
-    - If your blender has slow starup time - <Your screwed>
+# Some Caveats:
+    - If your blender has slow starup time - "Your screwed"
     - All blender output is delayed by pycharm until the program exits
     - No debugging - obviously.
     
