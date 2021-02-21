@@ -155,7 +155,7 @@ If you are working with a huge multiple file/ multiple package addon, you should
 to appreciate the value of this workflow like I have.
 
 # Some Caveats:
-    - If your blender has slow starup time - "Your screwed"
+    - If your blender has slow startup time - "Your screwed"
     - All blender output is delayed by pycharm until the program exits
     - No debugging - obviously.
     
