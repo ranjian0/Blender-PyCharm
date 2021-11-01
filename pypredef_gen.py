@@ -999,7 +999,7 @@ def bpy2predef(BASEPATH, title):
     structs, funcs, ops, props = rna_info.BuildRNAInfo()
     #open the file:
     filepath = os.path.join(BASEPATH, "bpy.py")
-    file = open(filepath, "w")
+    file = open(filepath, "w", encoding="utf-8")
     fw = file.write
     #Start the file:
     definition = doc2definition(title,"") #skip the leading spaces at the first line...
